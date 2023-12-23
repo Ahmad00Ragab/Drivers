@@ -1,10 +1,7 @@
 /******************************************************************************
  * File Name: common_macros.h
- *
  * Description: Header file for the Most used Common Macros
- *
  * Author: Ahmad Haroun
- *
  * Date :  July 1 2023
  *******************************************************************************/
 
