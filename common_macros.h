@@ -8,6 +8,10 @@
 #ifndef COMMON_MACROS_H_
 #define COMMON_MACROS_H_
 
+/*******************************************************************************
+ *                                Definitions                                  *
+ *******************************************************************************/
+
 /* A More Readable Formula SET a Specific Bit in A REGISTER */
 #define SET_BIT(REG,BIT)     (REG |= (1<<BIT))
 /* A More Readable Formula CLEAR a Specific Bit in A REGISTER */                             
